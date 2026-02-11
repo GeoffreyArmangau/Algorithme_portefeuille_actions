@@ -1,0 +1,22 @@
+
+==== RAPPORT 1 ====
+=============== Rapport ===============
+Meilleure combinaison d'actions :- Share-IFCP : coût = 29.23€, bénéfice = 11.66€- Share-EMOV : coût = 8.89€, bénéfice = 3.51€- Share-KZBL : coût = 28.99€, bénéfice = 11.35€- Share-LRBZ : coût = 32.90€, bénéfice = 13.14€- Share-XJMO : coût = 9.39€, bénéfice = 3.75€- Share-GIAJ : coût = 10.75€, bénéfice = 4.29€- Share-QQTU : coût = 33.19€, bénéfice = 13.14€- Share-SKKC : coût = 24.87€, bénéfice = 9.82€- Share-ZSDE : coût = 15.11€, bénéfice = 6.03€- Share-LGWG : coût = 31.41€, bénéfice = 12.41€- Share-WPLI : coût = 34.64€, bénéfice = 13.82€- Share-QLMK : coût = 17.38€, bénéfice = 6.86€- Share-MLGM : coût = 0.01€, bénéfice = 0.00€- Share-FKJW : coût = 21.08€, bénéfice = 8.39€- Share-GTQK : coût = 15.40€, bénéfice = 6.15€- Share-USSR : coût = 25.62€, bénéfice = 10.14€- Share-MTLR : coût = 16.49€, bénéfice = 6.59€- Share-LPDM : coût = 39.35€, bénéfice = 15.63€- Share-UEZB : coût = 24.87€, bénéfice = 9.81€- Share-NHWA : coût = 29.18€, bénéfice = 11.60€- Share-GHIZ : coût = 28.00€, bénéfice = 11.17€- Share-KMTG : coût = 23.21€, bénéfice = 9.28€
+Coût total : 499.96€Bénéfice total après 2 ans : 198.55€
+=============== Comparaison ===============
+Comparaison avec Sienna:- Coût total Sienna: 498.76€- Retour total Sienna: 196.61€
+Le coût de la combinaison actuelle est de: 499.96€ contre 498.76€ pour Sienna, soit 1.20€ de plus que celle de Sienna.Le bénéfice de la combinaison actuelle est de: 198.55€ contre 196.61€ pour Sienna, soit 1.94€ de plus que celle de Sienna.=============== Rapport temps et mémoire ===============
+Durée d'execution: 5.6373 seconds
+La consommation actuelle de mémoire est de: 6.7KoLe pic de mémoire utilisé est de : 436.6Mo
+==== FIN RAPPORT 1 ====
+
+==== RAPPORT 2 ====
+=============== Rapport ===============
+Meilleure combinaison d'actions :- Share-ROOM : coût = 15.06€, bénéfice = 5.91€- Share-XQII : coût = 13.42€, bénéfice = 5.30€- Share-DWSK : coût = 29.49€, bénéfice = 11.60€- Share-LFXB : coût = 14.83€, bénéfice = 5.90€- Share-VCAX : coût = 27.42€, bénéfice = 10.69€- Share-FAPS : coût = 32.57€, bénéfice = 12.88€- Share-JGTW : coût = 35.29€, bénéfice = 13.91€- Share-JWGF : coût = 48.69€, bénéfice = 19.44€- Share-ALIY : coût = 29.08€, bénéfice = 11.61€- Share-NDKR : coût = 33.06€, bénéfice = 13.19€- Share-SCWM : coût = 6.42€, bénéfice = 2.45€- Share-PATS : coût = 27.70€, bénéfice = 11.07€- Share-ANFX : coût = 38.55€, bénéfice = 15.31€- Share-YFVZ : coût = 22.55€, bénéfice = 8.82€- Share-LXZU : coût = 4.24€, bénéfice = 1.68€- Share-PLLK : coût = 19.94€, bénéfice = 7.96€- Share-ZOFA : coût = 25.32€, bénéfice = 10.07€- Share-FWBE : coût = 18.31€, bénéfice = 7.29€- Share-IXCI : coût = 26.32€, bénéfice = 10.37€- Share-ECAQ : coût = 31.66€, bénéfice = 12.50€
+Coût total : 499.92€Bénéfice total après 2 ans : 197.96€
+=============== Comparaison ===============
+Comparaison avec Sienna:- Coût total Sienna: 489.24€- Retour total Sienna: 193.78€
+Le coût de la combinaison actuelle est de: 499.92€ contre 489.24€ pour Sienna, soit 10.68€ de plus que celle de Sienna.Le bénéfice de la combinaison actuelle est de: 197.96€ contre 193.78€ pour Sienna, soit 4.18€ de plus que celle de Sienna.=============== Rapport temps et mémoire ===============
+Durée d'execution: 3.2033 seconds
+La consommation actuelle de mémoire est de: 6.7KoLe pic de mémoire utilisé est de : 265.8Mo
+==== FIN RAPPORT 2 ====
